@@ -1,3 +1,3 @@
 # cursor-animation
 animating on screen cursor.
-![Screenshot](ss.jpg)
+![Screenshot](ss.png)
